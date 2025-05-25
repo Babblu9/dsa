@@ -7,6 +7,6 @@ class GFG {
       {
         System.out.println(i);
         i++;
-      }
-    }
+      }
+    }
 }
